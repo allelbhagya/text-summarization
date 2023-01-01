@@ -1,1 +1,8 @@
-# text
+### Text Summarization using Python
+## Main text ~
+Machine learning (ML) refers to a system's ability to acquire, and integrate knowledge through large-scale observations, and to improve, and extend itself by learning new knowledge rather than by being programmed with that knowledge. ML techniques are used in intelligent tutors to acquire new knowledge about students, identify their skills, and learn new teaching approaches. They improve teaching by repeatedly observing how students react and generalize rules about the domain or student. The role of ML techniques in a tutor is to independently observe and evaluate the tutor's actions. ML tutors customize their teaching by reasoning about large groups of students, and tutor-student interactions, generated through several components. A performance element is responsible for making improvements in the tutor, using perceptions of tutor/student interactions, and knowledge about the student's reaction to decide how to modify the tutor to perform better in the future. ML techniques are used to identify student learning strategies, such as, which activities do students select most frequently and in which order. Analysis of student behavior leads to greater student learning outcome by providing tutors with useful diagnostic information for generating feedback.
+
+### Would be converted to ~ 
+
+A performance element is responsible for making improvements in the tutor, using perceptions of tutor/student interactions, and knowledge about the student's reaction to decide how to modify the tutor to perform better in the future.,
+Machine learning (ML) refers to a system's ability to acquire, and integrate knowledge through large-scale observations, and to improve, and extend itself by learning new knowledge rather than by being programmed with that knowledge.
